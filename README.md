@@ -1,6 +1,9 @@
 # Auto-Tiktoks
 A Tiktoks auto generator (Low Quality, require more work).
 
+# How it works
+The script require entering a subreddit link, and it'll take the top 5 non-NSFW posts of today and convert them into a video.
+
 # Requirements
 - a background video (ex: minecraft parkour).
 - a text from reddit post or something similar
